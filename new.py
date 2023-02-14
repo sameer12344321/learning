@@ -1,3 +1,1 @@
-hello world
-kaisay hai aap loog
-achay hai hum loog
+bahut kameenay ho tum
